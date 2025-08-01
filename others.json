@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Server Logo Pack",
+    "category": "others",
+    "description": "A pack of logos for your server branding.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+    "label": "FREE",
+    "labelType": "free",
+    "tags": ["Logo", "Branding"],
+    "attributes": ["Pack", "Graphics"],
+    "info": "Use freely in your projects."
+  },
+  {
+    "id": 2,
+    "title": "Discord Widget",
+    "category": "others",
+    "description": "Embed your Discord server widget.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
+    "label": "FREE",
+    "labelType": "free",
+    "tags": ["Discord", "Widget"],
+    "attributes": ["Integration", "Utility"],
+    "info": "Easy to set up and use."
+  }
+]

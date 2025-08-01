@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Urban Hoodie",
+    "category": "clothing",
+    "description": "Trendy hoodie for your avatars.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "label": "FREE",
+    "labelType": "free",
+    "tags": ["Hoodie", "Urban"],
+    "attributes": ["Unisex", "Trendy"],
+    "info": "Available for all avatars."
+  },
+  {
+    "id": 2,
+    "title": "Police Uniform Set",
+    "category": "clothing",
+    "description": "Complete police uniform for roleplay.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+    "label": "PAID",
+    "labelType": "paid",
+    "tags": ["Uniform", "Police"],
+    "attributes": ["LEO", "Roleplay"],
+    "info": "Check the [Forum](https://forum.cfx.re/c/releases/7) for more."
+  }
+]

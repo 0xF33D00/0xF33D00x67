@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Bite! Restaurant",
+    "category": "video",
+    "description": "A modern restaurant showcase.",
+    "type": "video",
+    "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "label": "PAID",
+    "labelType": "paid",
+    "tags": ["Restaurant", "Map", "Food"],
+    "attributes": ["Modern", "Popular"],
+    "info": "Check the [Forum](https://forum.cfx.re/c/releases/7) for more."
+  },
+  {
+    "title": "New Radio Emote Pack",
+    "category": "video",
+    "description": "Fun radio emotes for your server.",
+    "type": "video",
+    "src": "https://www.w3schools.com/html/movie.mp4",
+    "label": "PAID",
+    "labelType": "paid",
+    "tags": ["Emote", "Radio", "Animation"],
+    "attributes": ["Fun", "Pack"],
+    "info": "Check the [Forum](https://forum.cfx.re/c/releases/7) for more."
+  },
+  {
+    "title": "Text to Speech AI",
+    "category": "video",
+    "description": "AI-powered text to speech demo.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
+    "label": "FREE",
+    "labelType": "free",
+    "tags": ["AI", "Speech", "Utility"],
+    "attributes": ["Experimental", "Voice"],
+    "info": "Check the [Forum](https://forum.cfx.re/c/releases/7) for more."
+  },
+  {
+    "title": "Despair Male Tops 11",
+    "category": "art",
+    "description": "Male clothing pack for avatars.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "label": "PAID",
+    "labelType": "paid",
+    "tags": ["Clothing", "Male", "Avatar"],
+    "attributes": ["Fashion", "Bundle"],
+    "info": "Check the [Forum](https://forum.cfx.re/c/releases/7) for more."
+  },
+  {
+    "title": "[FREE] tech death screen Custom D...",
+    "category": "video",
+    "description": "Custom death screen for your server.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+    "label": "FREE",
+    "labelType": "free",
+    "tags": ["Death Screen", "UI", "FREE"],
+    "attributes": ["Custom", "UI"],
+    "info": "Check the [Forum](https://forum.cfx.re/c/releases/7) for more."
+  },
+  {
+    "title": "Tow Truck w/ Winch - Version 2.0.0",
+    "category": "video",
+    "description": "Tow truck vehicle mod.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=400&q=80",
+    "label": "PAID",
+    "labelType": "paid",
+    "tags": ["Vehicle", "Tow Truck", "Utility"],
+    "attributes": ["Heavy Duty", "Addon"],
+    "info": "Check the [Forum](https://forum.cfx.re/c/releases/7) for more."
+  }
+]

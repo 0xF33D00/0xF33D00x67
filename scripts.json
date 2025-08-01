@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Vehicle Lock Script",
+    "category": "scripts",
+    "description": "Lock and unlock vehicles with a keybind.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
+    "label": "FREE",
+    "labelType": "free",
+    "tags": ["Vehicle", "Lock"],
+    "attributes": ["Utility", "Script"],
+    "info": "Open source on GitHub."
+  },
+  {
+    "id": 2,
+    "title": "Banking UI",
+    "category": "scripts",
+    "description": "Modern banking interface for your server.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
+    "label": "PAID",
+    "labelType": "paid",
+    "tags": ["Bank", "UI"],
+    "attributes": ["Modern", "Finance"],
+    "info": "Check the [Forum](https://forum.cfx.re/c/releases/7) for more."
+  }
+]

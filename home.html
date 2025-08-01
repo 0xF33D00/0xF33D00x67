@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Media Collection - Home</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body { background: #181a20; color: #e0e0e0; margin: 0; font-family: 'Segoe UI', Arial, sans-serif; }
+    .home-header { text-align: center; padding: 2rem 0 1rem 0; }
+    .category-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 2rem; max-width: 1000px; margin: 0 auto; padding: 2rem 1rem; }
+    .category-card { background: #23242a; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.18); display: flex; flex-direction: column; align-items: center; padding: 2rem 1rem 1.5rem 1rem; cursor: pointer; transition: transform 0.18s, box-shadow 0.18s; border: 1px solid #23242a; text-decoration: none; color: inherit; }
+    .category-card:hover { transform: translateY(-6px) scale(1.03); box-shadow: 0 4px 16px rgba(0,0,0,0.28); border: 1px solid #6c63ff; }
+    .category-icon { font-size: 3rem; margin-bottom: 1rem; }
+    .category-title { font-size: 1.3rem; font-weight: 600; margin-bottom: 0.5rem; }
+    .category-desc { color: #b0b0b0; font-size: 1rem; text-align: center; }
+    @media (max-width: 600px) { .category-grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <div class="home-header">
+    <h1>Welcome to the Media Collection</h1>
+    <p>Browse by category:</p>
+  </div>
+  <div class="category-grid">
+    <a class="category-card" href="index.html?category=maps">
+      <div class="category-icon">🗺️</div>
+      <div class="category-title">Maps</div>
+      <div class="category-desc">Custom maps and locations for your server.</div>
+    </a>
+    <a class="category-card" href="index.html?category=vehicles">
+      <div class="category-icon">🚗</div>
+      <div class="category-title">Vehicles</div>
+      <div class="category-desc">Cars, trucks, and more vehicle mods.</div>
+    </a>
+    <a class="category-card" href="index.html?category=clothing">
+      <div class="category-icon">👕</div>
+      <div class="category-title">Clothing</div>
+      <div class="category-desc">Outfits, uniforms, and accessories.</div>
+    </a>
+    <a class="category-card" href="index.html?category=scripts">
+      <div class="category-icon">💻</div>
+      <div class="category-title">Scripts</div>
+      <div class="category-desc">Gameplay scripts and server utilities.</div>
+    </a>
+    <a class="category-card" href="index.html?category=other">
+      <div class="category-icon">✨</div>
+      <div class="category-title">Other</div>
+      <div class="category-desc">Miscellaneous resources and tools.</div>
+    </a>
+  </div>
+</body>
+</html>

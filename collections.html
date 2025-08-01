@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome Media Collection</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-bar">
+      <h1>Awesome Media Collection</h1>
+      <div class="filters">
+        <input type="text" id="searchInput" placeholder="Search...">
+        <select id="categoryFilter" style="display:none">
+          <option value="all">All Categories</option>
+        </select>
+        <select id="tagFilter">
+          <option value="all">All Tags</option>
+        </select>
+        <select id="attrFilter">
+          <option value="all">All Attributes</option>
+        </select>
+        <select id="mapCreatorFilter">
+          <option value="all">All Map Creators</option>
+        </select>
+      </div>
+    </div>
+  </header>
+  <div class="sort-bar">
+    <label for="sortSelect">Sort by:</label>
+    <select id="sortSelect">
+      <option value="latest">Latest</option>
+      <option value="alpha">Alphabetical</option>
+    </select>
+  </div>
+  <main>
+    <div id="gallery" class="gallery"></div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

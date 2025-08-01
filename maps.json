@@ -1,0 +1,525 @@
+[
+  {
+    "id": 1,
+    "title": "Guidelines",
+    "category": "maps",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
+    "label": "FREE",
+    "labelType": "free",
+    "mapCreator": "",
+    "location": "",
+    "download": "https://example.com/maps/sample-map-showcase.zip",
+    "videoSrc": "",
+    "pin": "",
+    "description": "Click me for your official guide!",
+    "info": "For Review = Requires checking of files (security, working, etc.)\nVerified = Checked, working and clean\nN/A = Checked and working",
+    "tags": [],
+    "attributes": []
+  },
+  {
+    "id": 2,
+    "title": "Rockford Police Department",
+    "category": "maps",
+    "type": "image",
+    "src": "https://img.youtube.com/vi/T5xTItE_k2Q/hqdefault.jpg",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "NTeam",
+    "location": "vec3(123.45, -678.90, 21.00)",
+    "download": "https://drive.google.com/file/d/1Mj0p9QcyngWqFEw6f-VlRU7xhc9w8idG/view?usp=sharing",
+    "videoSrc": "https://www.youtube.com/embed/T5xTItE_k2Q",
+    "pin": "",
+    "description": "",
+    "info": "[CFX Forum](https://forum.cfx.re/t/paid-mlo-police-station/5213450) <br> [Tebex](https://nteamdev.tebex.io/)",
+    "tags": [
+      "LEO"
+    ],
+    "attributes": [
+      "RS56"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Benny's Motorworks",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=Qps6s46G9TQ&t=45s",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "vec3(-242.77, -1325.12, 31.31)",
+    "download": "https://drive.google.com/file/d/1QpCa8zeUkRdA4aC3lIkFpakyGZW0c_kl/view?usp=drive_link",
+    "videoSrc": "",
+    "pin": "",
+    "description": "",
+    "info": "[Tebex](https://fivem.gabzv.com/package/5500605)\nRequires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Mechanic"
+    ],
+    "attributes": [
+      "Verified",
+      "RS56"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Koi",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=SaUzexSldGc",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "vec3(-1046.18, -1467.99, 4.89)",
+    "download": "https://drive.google.com/file/d/1qgBo1G4gz5SOFSkXuUBnaB4wVDG1Apqf/view?usp=drive_link",
+    "videoSrc": "",
+    "pin": "",
+    "description": "",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Food Business"
+    ],
+    "attributes": [
+      "RS56"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "AmmuNation",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=Bxunb01OLi0",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "vec(10.907, -1105.658, 28.79693)",
+    "download": "https://drive.google.com/file/d/1t7tbx8hQdjkpykKhFkEgT4PLqcbTTbR8/view?usp=drive_link",
+    "videoSrc": "",
+    "pin": "",
+    "description": "All AmmuNation",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Business"
+    ],
+    "attributes": [
+      "RS56"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Benny’s Remastered",
+    "category": "maps",
+    "type": "image",
+    "src": "https://forum-cfx-re.akamaized.net/original/5X/3/1/e/b/31ebdec905eae614ba4e6d41819db3a9a6b86334.jpeg",
+    "label": "FREE",
+    "labelType": "free",
+    "mapCreator": "VModFactory",
+    "location": "vec3(-204.03, -1303.0, 31.29)",
+    "download": "https://drive.google.com/file/d/1IAy-rN_zqS9FfpYtytrkNLKUaDOZgq8S/view?usp=sharing",
+    "videoSrc": "",
+    "pin": "",
+    "description": "",
+    "info": "[CFX Forum](https://forum.cfx.re/t/free-benny-s-remastered-fivem/5323738)",
+    "tags": [
+      "Mechanic"
+    ],
+    "attributes": [
+      "RS56"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Driveline Garage",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=yankFDbi5vM",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Trooper Corentin",
+    "location": "vec3(-845.99, -445.4, 36.64)",
+    "download": "https://drive.google.com/file/d/13JucdY3ofxSde_cdPY3i0_Vi8ZVXDt83/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/yankFDbi5vM",
+    "pin": "",
+    "description": "",
+    "info": "[Tebex](https://troopercorentin.tebex.io/package/6591305)",
+    "tags": [
+      "Mechanic"
+    ],
+    "attributes": [
+      "RS56"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Mission Row Police Department",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=00lYo6BVlEQ",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "kiiya",
+    "location": "vec3(413.41, -984.34, 29.43)",
+    "download": "https://drive.google.com/file/d/1KxioM0B26yQY10goM1XeUmCb5YT2M9_q/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/00lYo6BVlEQ",
+    "pin": "",
+    "description": "",
+    "info": "[Tebex](https://kiiya.tebex.io/package/5942325)",
+    "tags": [
+      "LEO"
+    ],
+    "attributes": [
+      "RS56"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Hospital",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=j8i6TnAiADs",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "NTeam",
+    "location": "vec3(-513.29, -998.8, 23.36",
+    "download": "https://drive.google.com/file/d/1SeW3mQcU2ZVPK8SdBQw9HHAFosP0wG26/view?usp=sharing",
+    "videoSrc": "https://www.youtube.com/embed/j8i6TnAiADs",
+    "pin": "",
+    "description": "",
+    "info": "[Tebex](https://nteamdev.tebex.io/package/6574906)",
+    "tags": [
+      "EMS"
+    ],
+    "attributes": [
+      "RS56"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Jurassic Jackpot Casino",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=LHPNoEDWbeQ",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "TStudio",
+    "location": "",
+    "download": "https://drive.google.com/file/d/1fsQU0Wr9jiqbm2t7_GpFGPzaumITxCDd/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/LHPNoEDWbeQ",
+    "pin": "",
+    "description": "",
+    "info": "[Tebex](https://turbosaif.tebex.io/package/6396710)",
+    "tags": [
+      "Casino",
+      "Business"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Tropical Heights: Bar & Night Club",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=190Y81TCfuk",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "TStudio",
+    "location": "",
+    "download": "https://drive.google.com/file/d/18MRo1h77VikU_Hmgt0L-s9kr42bBVPB0/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/190Y81TCfuk",
+    "pin": "",
+    "description": "",
+    "info": "[Tebex](https://shop.tstudio3d.com/package/6178606)",
+    "tags": [
+      "Business",
+      "Club"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Bennys Luxury Motorworks V2",
+    "category": "maps",
+    "type": "video",
+    "src": "http://youtube.com/watch?v=1LXnKOXCtLo&t=93s",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "TStudio",
+    "location": "",
+    "download": "https://drive.google.com/file/d/18NwOx_aux4sEPCIB_grzTUdNt2jA5MlY/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/1LXnKOXCtLo",
+    "pin": "",
+    "description": "",
+    "info": "[Tebex](https://shop.tstudio3d.com/package/5988470)",
+    "tags": [
+      "Mechanic"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Red's Tunershop FiveM",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=mvB1CsFdw6o",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "TStudio",
+    "location": "",
+    "download": "https://drive.google.com/file/d/18NwOx_aux4sEPCIB_grzTUdNt2jA5MlY/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/mvB1CsFdw6o",
+    "pin": "",
+    "description": "",
+    "info": "[Tebex](https://shop.tstudio3d.com/package/5988470)",
+    "tags": [
+      "Mechanic"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Vespucci Beach Markets",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=dm9f7VCxcKM",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "",
+    "download": "https://drive.google.com/file/d/1Z49kSURDyMCriy5-DPY4AN5NPtsno4Kk/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/dm9f7VCxcKM",
+    "pin": "",
+    "description": "",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Shops",
+      "Business"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Pacific Bank",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=YFTOBKhKMhk",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "",
+    "download": "https://drive.google.com/file/d/1YpOQkYAd4YoiujlRpv4FVrNyeNggKDtU/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/YFTOBKhKMhk",
+    "pin": "",
+    "description": "",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Bank"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Bahamas",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=gECTzCVK3Ok",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "",
+    "download": "https://drive.google.com/file/d/13BQhjVHlp96Kd76ta2d4ttaR8cMg5h-Q/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/gECTzCVK3Ok",
+    "pin": "",
+    "description": "",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Business",
+      "Club"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Vagos",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=ccutNYQmhrI",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "",
+    "download": "https://drive.google.com/file/d/1tXB7VEkVTKvU30cqpiAdAFVY9uPFDXTR/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/gECTzCVK3Ok",
+    "pin": "",
+    "description": "",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Territory"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Famillies",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=ccutNYQmhrI",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "",
+    "download": "https://drive.google.com/file/d/1QCWikthomF1Zl-vOx7HgIHcZrlD7pAE-/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/gECTzCVK3Ok",
+    "pin": "",
+    "description": "",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Territory"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Altruists",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=ccutNYQmhrI",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "",
+    "download": "https://drive.google.com/file/d/1Ct6vhWp9euyetXG66Q6Q3MNpN-U7CsMc/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/gECTzCVK3Ok",
+    "pin": "",
+    "description": "",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Territory"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Weed Camp",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=gECTzCVK3Ok",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "",
+    "download": "https://drive.google.com/file/d/14ukADf2jxEWg7BjInJ1NuDiVd-VPNWPg/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/gECTzCVK3Ok",
+    "pin": "",
+    "description": "",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Illegal",
+      "Spots"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Lost MC",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=nJxIQBqCtvQ",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Gabz",
+    "location": "",
+    "download": "https://drive.google.com/file/d/1QtCyXwBL7j7_qa2k9wn125clc6c-fysL/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/gECTzCVK3Ok",
+    "pin": "",
+    "description": "",
+    "info": "Requires: [gabz-mapdata](https://drive.google.com/file/d/1spzicJXer-DWKKbCLiifXDdg2gGwNkeu/view?usp=drive_link)",
+    "tags": [
+      "Territory"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "PvP Arenas",
+    "category": "maps",
+    "type": "image",
+    "src": "https://files.greenheberg.fr/uploads/688b95cd7ba8a_Capturedcran2025-07-31181144.png",
+    "label": "CUSTOM",
+    "labelType": "custom",
+    "mapCreator": "",
+    "location": "",
+    "download": "https://drive.google.com/file/d/1you47v8qHkrzftSn4xdLX-GxT0L-01ab/view?usp=drive_link",
+    "videoSrc": "",
+    "pin": "",
+    "description": "7 locations of arena combined",
+    "info": "-2351.06, 3174.59, 480.22 ------ .ARENA 1\n-2245.09, 3184.72, 477.04 ------ .ARENA 2\n-2082.7, 3177.87, 479.42 ------ .ARENA 3\n-1905.38, 3178.49, 478.46 ------ .ARENA 4\n-1794.75, 3186.07, 477.23 ------ .ARENA 5\n-1594.35, 3202.83, 482.62 ------ .ARENA 6\n-1409.7, 3175.1, 480.16 ------ .ARENA 7",
+    "tags": [
+      "PvP"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "South Central Bundle",
+    "category": "maps",
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=rKC22g8l8HM",
+    "label": "PAID",
+    "labelType": "paid",
+    "mapCreator": "Soloty",
+    "location": "",
+    "download": "https://drive.google.com/file/d/1vpHj_d-RT6ycp_tk_8awurkqscD3MpSi/view?usp=drive_link",
+    "videoSrc": "https://www.youtube.com/embed/rKC22g8l8HM",
+    "pin": "",
+    "description": "",
+    "info": "This pack gives you access to 6 unique zones. Find the mapping videos below, with all the details to discover ✨  \n\n____________________________________________________________________\n\nMap Preview Cemetery https://youtu.be/YRD4onQslU0 \n\nMap Preview Compton 2 Rework https://www.youtube.com/watch?v=tSOBavlpch4 \n\nMap Preview Compton 1 https://www.youtube.com/watch?v=q5BjRSV3nWs \n\nMap Preview Skate Park https://youtu.be/l5slH-xE5OI \n\nMap Preview South Central https://youtu.be/fl90JghD2rE \n\nMap Preview Watts https://youtu.be/U8wcVLqTn0s \n\nDelivered using the FiveM Asset Escrow system.\n\n____________________________________________________________________\n\nHere are the details [Cemetery] :\n\nMap detailed with good finish👷‍♂️ - Optimized mapping⚙️ - Optimized texture and place in a file in YTD format (This file can be edited by each client if you wish to change certain texture of the mapping)📁 - Custom sound effect🔊 - Custom Collision optimized🟪 - Custom emissive🪟 - Custom car generators (vehicle spawn)🚗 - Custom lod lights💡 - Custom props📦 - Custom water💧\n\nHere are the details [COMPTON 2 REWORK] : \n\nMap detailed with good finish👷‍♂️ MLO house🏠 Optimized mapping⚙️ Optimized texture and place in a file in YTD format (This file can be edited by each client if you wish to change certain texture of the mapping)📁 Custom sound effect🔊 Custom Collision optimized🟪 Custom occlusion🟦 Custom emissive🪟 Custom car generators🚗 Customs💡 lod light Custopsm pro📦\n\nHere are the details [Compton1] :\n\nMap detailed with good finish👷‍♂️ - Replace Megamall🏗️ - MLO supermarket🛒 - Underground tunnel⛏️ - Optimized mapping⚙️ - Custom sound effect🔊 - Custom grass🌿 - Custom Collision optimized🟪 - Custom occlusion🟦 - Custom emissive🪟 - Custom car generators🚗 - Custom lod lights💡 - Custom Props📦\n\nHere are the details [Skate Park] :\n\nSkate park 🛹 - Free map ✨- Optimized mapping⚙️- Map detailed with good finish👷‍♂️ - Custom sound effect🔊 - Custom Collision optimized🟪 - Custom props📦 - Custom grass🌿 - Texture optimized + editable if you wish📁  \n\nHere are the details [South Central] : \n\nMap detailed with good finish👷‍♂️ - Inspired by snowfall🌴 - MLO garage🔧 - MLO house🏠 - Optimized mapping⚙️ - Optimized texture and place in a file in YTD format (This file can be edited by each client if you wish to change certain texture of the mapping)📁 - Custom sound effect🔊 - Custom Collision optimized🟪 - Custom occlusion🟦 - Custom emissive🪟 - Custom car generators🚗 - Custom traffic path🚗 - Custom lod lights💡 - Custom props📦 - Custom navmesh🧑 - Custom scenario⚽ \n\nHere are the details [WATTS MAP] :\n\nMap detailed with good finish👷‍♂️ Watts Los Angeles🌴 MLO house🏠 MLO tattoo salon✒️ Interior underground🥷🏼 Watts Towers🗼 Optimized mapping⚙️ Optimized texture and place in a file in YTD format (This file can be edited by each client if you wish to change certain texture of the mapping)📁 Custom electric wire⚡ Custom sound effect🔊 Custom Collision optimized🟪 Custom occlusion🟦 Custom emissive🪟 Custom car generators🚗 Custom traffic path🚗 Custom lod lights💡 Custom props📦 Good location📍",
+    "tags": [
+      "Bundle",
+      "Pack"
+    ],
+    "attributes": [
+      "RS56",
+      "for review"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "MAPS": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+  "VEHICLES": "https://yourdomain.com/path/to/vehicles-preview.jpg",
+  "CLOTHING": "https://yourdomain.com/path/to/clothing-preview.jpg",
+  "SCRIPTS": "https://yourdomain.com/path/to/scripts-preview.jpg",
+  "OTHERS": "https://yourdomain.com/path/to/others-preview.jpg"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Super Car X",
+    "category": "vehicles",
+    "description": "A high-performance supercar for your server.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1511918984145-48de785d4c4e?auto=format&fit=crop&w=400&q=80",
+    "label": "PAID",
+    "labelType": "paid",
+    "tags": ["Car", "Supercar"],
+    "attributes": ["Fast", "Luxury"],
+    "info": "Check the [Forum](https://forum.cfx.re/c/releases/7) for more.",
+    "pin": true
+  },
+  {
+    "id": 2,
+    "title": "Classic Muscle",
+    "category": "vehicles",
+    "description": "A classic muscle car with a roaring engine.",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=400&q=80",
+    "label": "FREE",
+    "labelType": "free",
+    "tags": ["Car", "Classic"],
+    "attributes": ["Muscle", "Retro"],
+    "info": "Download and enjoy!"
+  }
+]
